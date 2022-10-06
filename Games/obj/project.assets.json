@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rusla\\source\\repos\\Games\\Games\\Games.csproj",
+      "projectUniqueName": "C:\\Users\\rusla\\Desktop\\Task1\\Games\\Games.csproj",
       "projectName": "Games",
-      "projectPath": "C:\\Users\\rusla\\source\\repos\\Games\\Games\\Games.csproj",
+      "projectPath": "C:\\Users\\rusla\\Desktop\\Task1\\Games\\Games.csproj",
       "packagesPath": "C:\\Users\\rusla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rusla\\source\\repos\\Games\\Games\\obj\\",
+      "outputPath": "C:\\Users\\rusla\\Desktop\\Task1\\Games\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rusla\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -2,10 +2,6 @@
 {
     class Program
     {
-        static void Matrix(int[] numbers)
-        {
-
-        }
         static void Main(string[] args)
         {
             string program;
@@ -23,7 +19,7 @@
 
             while (q < 9)
             {
-                Console.WriteLine("\nВыберите программу (вводите число): \n 1. Угадай число \n 2. Таблица умножения \n 3. Вывод делителей числа");
+                Console.WriteLine("\nВыберите программу (вводите число): \n 1. Угадай число \n 2. Таблица умножения \n 3. Вывод делителей числа \n Нажмите 9, если хотите закончить сеанс");
                 program = Console.ReadLine();
                 switch (program)
                 {
@@ -75,6 +71,9 @@
                             if (delitel % i == 0)
                                 Console.WriteLine(i);
                         }
+                        break;
+                    case "9":
+                        q = q + 9;
                         break;
                 }
             }
